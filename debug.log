@@ -1,0 +1,19 @@
+[0927/122233.862:WARNING:minidump_to_upload_parameters.cc(66)] duplicate annotation name prod, discarding value OperaDesktop
+[0927/122233.862:WARNING:minidump_to_upload_parameters.cc(66)] duplicate annotation name ver, discarding value 58.0.3135.79
+[0927/122233.862:WARNING:minidump_to_upload_parameters.cc(66)] duplicate annotation name channel, discarding value Stable
+[0927/122233.862:WARNING:minidump_to_upload_parameters.cc(66)] duplicate annotation name ptype, discarding value installer
+[0927/122241.865:ERROR:http_transport_win.cc(346)] WinHttpWriteData: The operation completed successfully. (0x0)
+[1030/134002.625:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1207/183555.794:WARNING:minidump_to_upload_parameters.cc(66)] duplicate annotation name prod, discarding value OperaDesktop
+[1207/183555.794:WARNING:minidump_to_upload_parameters.cc(66)] duplicate annotation name ver, discarding value 58.0.3135.79
+[1207/183555.794:WARNING:minidump_to_upload_parameters.cc(66)] duplicate annotation name channel, discarding value Stable
+[1207/183555.794:WARNING:minidump_to_upload_parameters.cc(66)] duplicate annotation name ptype, discarding value installer
+[1227/041559.444:WARNING:minidump_to_upload_parameters.cc(66)] duplicate annotation name prod, discarding value OperaDesktop
+[1227/041559.475:WARNING:minidump_to_upload_parameters.cc(66)] duplicate annotation name ver, discarding value 58.0.3135.79
+[1227/041559.475:WARNING:minidump_to_upload_parameters.cc(66)] duplicate annotation name channel, discarding value Stable
+[1227/041559.475:WARNING:minidump_to_upload_parameters.cc(66)] duplicate annotation name ptype, discarding value installer
+[1230/214228.961:WARNING:minidump_to_upload_parameters.cc(66)] duplicate annotation name prod, discarding value OperaDesktop
+[1230/214228.977:WARNING:minidump_to_upload_parameters.cc(66)] duplicate annotation name ver, discarding value 58.0.3135.79
+[1230/214228.977:WARNING:minidump_to_upload_parameters.cc(66)] duplicate annotation name channel, discarding value Stable
+[1230/214228.977:WARNING:minidump_to_upload_parameters.cc(66)] duplicate annotation name ptype, discarding value installer
+[0105/222601.775:ERROR:settings.cc(347)] Settings magic is not 1129342067
